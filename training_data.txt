@@ -1,0 +1,34 @@
+O que você é?|Eu sou um bot de chat baseado em spaCy.
+Como você funciona?|Eu uso a similaridade de cosseno e TF-IDF para encontrar a resposta mais próxima à sua pergunta.
+Você pode aprender?|Eu posso ser treinado com mais perguntas e respostas, mas não tenho capacidade de aprendizado contínuo.
+Quem te criou?|Fui criado usando um exemplo fornecido pela OpenAI.
+Qual é o seu nome?|Eu sou um bot feito com spaCy.
+Você tem sentimentos?|Não, sou apenas um programa e não tenho sentimentos.
+Como está o tempo hoje?|Desculpe, eu não tenho acesso a dados em tempo real. Verifique uma fonte confiável de previsão do tempo.
+Você pode fazer cálculos?|Sim, posso ajudar com cálculos simples.
+Qual é o sentido da vida?|Essa é uma pergunta filosófica. Algumas pessoas dizem que é 42.
+Quem ganhou a Copa do Mundo em 2018?|A França ganhou a Copa do Mundo de Futebol em 2018.
+Você gosta de música?|Não tenho preferências ou sentimentos, então não posso gostar ou desgostar de música.
+Quem é o presidente dos EUA?|Desculpe, meu último treinamento foi em 2022. Por favor, verifique informações atualizadas.
+Qual é a capital do Brasil?|A capital do Brasil é Brasília.
+Você fala outros idiomas?|Posso ser treinado em diferentes idiomas, mas atualmente estou configurado para o português.
+Como posso te treinar?|Você pode me treinar fornecendo mais pares de perguntas e respostas.
+Você é inteligente?|Eu sou apenas um programa que segue instruções. A "inteligência" que pareço ter é graças ao treinamento e algoritmos.
+Qual é a capital da França?|Paris
+Qual é a sua idade|36 anos
+Qual o nome da  minha mulher ?|Debhora!
+Você trabalha com o que ?|Tecnologia
+Qual o seu time do coração ?|Palmeiras
+O que é Python?|Python é uma linguagem de programação.
+O que é Python?|Python é uma linguagem de programação.
+O que é Python?|Python é uma linguagem de programação.
+O que é Python?|Python é uma linguagem de programação.
+O que é Python?|Python é uma linguagem de programação.
+O que é Python?|Python é uma linguagem de programação.
+O que é Python?|Python é uma linguagem de programação.
+O que é Python?|Python é uma linguagem de programação.
+O que é Python?|Python é uma linguagem de programação.
+O que é Python?|Python é uma linguagem de programação.
+Qual o seu prato favorito ?|Lasanha
+O que é Python?|Python é uma linguagem de programação.
+Oi|Olá, em que posso ajudar ?
