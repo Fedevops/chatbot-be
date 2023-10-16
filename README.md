@@ -1,4 +1,4 @@
-# Meu Projeto de Backend
+# Chatbot - BE
 
 Este projeto é uma API backend desenvolvida em Python para fornecer funcionalidades de um chatbot e gerenciamento de perguntas e respostas.
 
