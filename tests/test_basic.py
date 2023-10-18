@@ -1,3 +1,4 @@
+# coding: utf-8
 from flask_testing import TestCase
 from bot_api import app
 

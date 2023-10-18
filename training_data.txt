@@ -32,3 +32,5 @@ O que é Python?|Python é uma linguagem de programação.
 Qual o seu prato favorito ?|Lasanha
 O que é Python?|Python é uma linguagem de programação.
 Oi|Olá, em que posso ajudar ?
+Estou com um problema|Entendi, qual o seu problema ?
+Estou com um problema|Entendi, qual o seu problema ?

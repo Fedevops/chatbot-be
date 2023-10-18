@@ -17,7 +17,7 @@ app = Flask(__name__)
 
 CORS(app)
 swagger = Swagger(app)
-training_data = load_training_data("training_data.txt")
+training_data = load_training_data("/home/fernando/projects/chatbot-be/chatbot-be/training_data.txt")
 
 state = {
     'collecting_data': False,
@@ -49,7 +49,7 @@ state = {
 
 def bot_response(user_input):
     bot = SimpleSpacyBot()
-    training_data = load_training_data("training_data.txt")
+    training_data = load_training_data("/home/fernando/projects/chatbot-be/chatbot-be/training_data.txt")
     bot.train(training_data)
     user_input = bot.respond(user_input)
   

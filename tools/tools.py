@@ -30,7 +30,7 @@ def load_training_data(filename):
 
 
 def add_to_training_data(question, answer):
-    with open("training_data.txt", "a") as file:
+    with open("/home/fernando/projects/chatbot-be/chatbot-be/training_data.txt", "a") as file:
         file.write(f"{question}|{answer}\n")
 
 
